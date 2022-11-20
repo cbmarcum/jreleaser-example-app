@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Hello " + name);
         System.out.println("Welcome to the party!");
         System.out.println("We're glad you came!");
+        System.out.println("and that you left...");
     }
 }
