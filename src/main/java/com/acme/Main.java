@@ -8,6 +8,7 @@ public class Main {
         String name = "World";
         if (args != null && args.length > 0) name = args[0];
         System.out.println("Hello " + name);
-        System.out.println("Welcome to the party! ");
+        System.out.println("Welcome to the party!");
+        System.out.println("We're glad you came!");
     }
 }
