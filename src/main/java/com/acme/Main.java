@@ -1,11 +1,11 @@
 package com.acme;
 
 /**
- * Class to print Hello World Carl
+ * Class to print Hello World
  */
 public class Main {
     public static void main(String[] args) {
-        String name = "World Carl";
+        String name = "World";
         if (args != null && args.length > 0) name = args[0];
         System.out.println("Hello " + name);
     }
