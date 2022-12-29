@@ -1,7 +1,7 @@
 package com.acme;
 
 /**
- * Class to print Hello Everyone
+ * Class to print Hello World
  */
 public class Main {
     public static void main(String[] args) {
