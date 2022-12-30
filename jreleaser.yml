@@ -24,6 +24,10 @@ release:
       preset: 'conventional-commits'
       contributors:
         format: '- {{contributorName}}{{#contributorUsernameAsLink}} ({{.}}){{/contributorUsernameAsLink}}'
+      # skipMergeCommits: true
+      hide:
+        categories:
+          - 'merge'
 
 signing:
   active: never # always
